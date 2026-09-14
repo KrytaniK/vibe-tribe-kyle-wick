@@ -1,2 +1,5 @@
 # Ignore all editor-specific files
 .[Ii]dea/
+
+# Ignore 'personal' notes (.txt files)
+*.txt
